@@ -1,3 +1,3 @@
 Minesweep project made with React and TypeScript
 
-![alt text](https://imgur.com/a/guF9v3z)
+![Start](https://imgur.com/UX5kS43)
